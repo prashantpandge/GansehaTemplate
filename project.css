@@ -1,0 +1,82 @@
+*{
+	
+	box-sizing:border-box;
+}
+
+.logo{
+	
+	
+}
+.welcome{
+	text-align:center;
+	height:150px;
+	padding-top:35px;
+	background-color:#F39C12;
+	color:white;
+	font-size:30px;
+	
+	
+}
+
+
+.name{
+	
+	
+	text-align:center;
+	height:150px;
+	padding-top:35px;
+	background-color:#F39C12;
+	color:white;
+	font-size:30px;
+}
+.menu{
+	border-style:solid;
+	height:50px;
+	text-align:center;
+	padding-top:8px;
+	background-color:#5A574F;
+	color:white;
+}
+
+.menu a{
+	text-decoration:none;
+	text-align:center;
+	color:white;
+	display:block;
+}
+.menu:hover{
+	color:#EEBC1C;
+	background-color:#EEBC1C;
+	
+}
+
+.banner{
+	height:200px;
+	border-style:solid;
+	text-align:center;
+	padding-top:70px;
+	font-weight:bold;
+	font-size:40px;
+	background-color:black;
+	color:white;
+	
+}
+.about
+{
+	text-align:justify;
+	
+}
+.service{
+	
+	text-align:justify;
+}
+.footer
+{
+	height:100px;
+	margin-top:20px;
+	background-color:gray;
+	text-align:center;
+	text-align:justify;
+	text-decoration:none;
+	font-color:black;
+}

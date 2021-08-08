@@ -1,0 +1,92 @@
+*{
+	
+	box-sizing:border-box;
+	
+	
+}
+.text{
+	text-align:center;
+	height:30px;
+	
+	
+	background-color:black;
+	color:white;
+	font-size:30px;
+	
+}
+.logo{
+	
+	
+}
+.name{
+	
+	
+	text-align:center;
+	height:150px;
+	padding-top:35px;
+	background-color:#F39C12;
+	color:white;
+	font-size:30px;
+}
+.menu{
+	border-style:solid;
+	height:50px;
+	text-align:center;
+	padding-top:8px;
+	background-color:#5A574F;
+	color:white;
+}
+
+.menu a{
+	text-decoration:none;
+	text-align:center;
+	color:white;
+	display:block;
+}
+.menu:hover{
+	color:#EEBC1C;
+	background-color:#EEBC1C;
+	
+}
+.donet{
+	background-color:#AEB6BF ;
+	text-align:center;
+	font-size:30px;
+}
+
+.donet1{
+	background-color:#AEB6BF ;
+	
+	
+	font-size:30px;
+}
+.photos{
+	background-color:#AEB6BF ;
+	
+	
+	font-size:30px;
+}
+.prize{
+	background-color:#AEB6BF ;
+	
+	
+	font-size:30px;
+}
+.footer{
+	background-color:#AEB6BF ;
+	height:200px;
+	
+	font-size:30px;
+}
+.about{
+	font-size:20px;
+	text-decoration:none;
+	
+}
+.thank{
+	text-align:center;
+	font-size:40px;
+	font-family:cursive;
+	
+	color:#E59866
+}

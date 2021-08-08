@@ -1,0 +1,67 @@
+*{
+	
+	box-sizing:border-box;
+	
+	
+}
+.text{
+	text-align:center;
+	height:30px;
+	
+	
+	background-color:black;
+	color:white;
+	font-size:30px;
+	
+}
+.logo{
+	
+	
+}
+.name{
+	
+	
+	text-align:center;
+	height:150px;
+	padding-top:35px;
+	background-color:#F39C12;
+	color:white;
+	font-size:30px;
+}
+.menu{
+	border-style:solid;
+	height:50px;
+	text-align:center;
+	padding-top:8px;
+	background-color:#5A574F;
+	color:white;
+}
+
+.menu a{
+	text-decoration:none;
+	text-align:center;
+	color:white;
+	display:block;
+}
+.menu:hover{
+	color:#EEBC1C;
+	background-color:#EEBC1C;
+	
+}
+.event{
+	border-style:solid;
+	background-color:#F6A31F;
+	color:white;
+	font-size:15px;
+}
+.about{
+	font-size:20px;
+	
+	
+}
+.schedule{
+background-color:#AEB6BF ;
+	
+	
+	font-size:30px;	
+}
